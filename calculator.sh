@@ -7,3 +7,5 @@ new insert
 
 
 ##Comment b##
+
+merge example
